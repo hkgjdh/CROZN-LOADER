@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "url": "https://raw.githubusercontent.com/hkgjdh/GX-CLAN-LOADER/main/libHKCHEATS.so"
+  "url": "https://raw.githubusercontent.com/hkgjdh/CROZN-LOADER/main/libHKCHEATS.so"
 }
